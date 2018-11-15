@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* **[CustomGrid.cs](./CS/CustomGrid.cs) (VB: [CustomGrid.vb](./VB/CustomGrid.vb))**
+* [Form1.cs](./CS/Form1.cs) (VB: [Form1.vb](./VB/Form1.vb))
+* [Program.cs](./CS/Program.cs) (VB: [Program.vb](./VB/Program.vb))
+<!-- default file list end -->
 #  GridView - How to add a custom button to the FilterPanel 
 
 
