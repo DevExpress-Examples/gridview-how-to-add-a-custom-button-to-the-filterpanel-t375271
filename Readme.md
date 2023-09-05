@@ -8,7 +8,7 @@
 
 > **Important**
 >
-> This example uses internal APIs that may changed in newer versions.
+> This example uses internal APIs that may change in newer versions.
 
 This example demonstrates how to display custom buttons within the Grid control's Filter Panel. The example [creates a custom grid control](https://supportcenter.devexpress.com/ticket/details/e900/winforms-data-grid-how-to-create-a-gridview-descendant-and-use-it-at-design-time), draws custom buttons within its Filter Panel, and implements the click functionality for custom buttons.
 
