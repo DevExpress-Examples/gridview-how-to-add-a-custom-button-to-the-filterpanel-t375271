@@ -28,6 +28,6 @@ This example demonstrates how to display custom buttons within the Grid control
 
 ## See Also
 
-* [WinForms Data Grid - How to create a GridView descendant and use it at design-time](https://supportcenter.devexpress.com/ticket/details/e900/winforms-data-grid-how-to-create-a-gridview-descendant-and-use-it-at-design-time)
+* [WinForms Data Grid - How to create a GridView descendant and use it at design time](https://supportcenter.devexpress.com/ticket/details/e900/winforms-data-grid-how-to-create-a-gridview-descendant-and-use-it-at-design-time)
 * [How to add a custom button to a column header in a grid](https://supportcenter.devexpress.com/ticket/details/e2793/winforms-data-grid-how-to-display-a-custom-button-within-a-column-header)
 * [How to add a check box to a column header](https://supportcenter.devexpress.com/ticket/details/t325446/winforms-data-grid-how-to-display-a-check-box-within-a-column-header)
