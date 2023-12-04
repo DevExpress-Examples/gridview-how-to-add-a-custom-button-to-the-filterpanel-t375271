@@ -69,7 +69,7 @@ namespace dxExample
     public class CustomGridSkinElementsPainter : GridSkinElementsPainter
     {
         public CustomGridSkinElementsPainter(BaseView view)  : base(view)   { }
-        protected override GridFilterPanelPainter CreateFilterPanelPainter()
+        protected override ObjectPainter CreateFilterPanelPainter()
         {
             GridFilterPanelPainter painter = new CustomGridFilterPanelPainter(View);
             return painter;
