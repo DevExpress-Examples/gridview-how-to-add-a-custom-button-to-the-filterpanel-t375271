@@ -72,10 +72,12 @@ Namespace dxExample
 		Public Sub New(ByVal view As BaseView)
 			MyBase.New(view)
 		End Sub
-		Protected Overrides Function CreateFilterPanelPainter() As GridFilterPanelPainter
+		Protected Overrides Function CreateFilterPanelPainter() As ObjectPainter
 			Dim painter As GridFilterPanelPainter = New CustomGridFilterPanelPainter(View)
 			Return painter
 		End Function
+
+
 	End Class
 	Public Class CustomGridFilterPanelPainter
 		Inherits SkinGridFilterPanelPainter
