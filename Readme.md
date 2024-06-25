@@ -2,6 +2,7 @@
 ![](https://img.shields.io/endpoint?url=https://codecentral.devexpress.com/api/v1/VersionRange/128624780/15.2.9%2B)
 [![](https://img.shields.io/badge/Open_in_DevExpress_Support_Center-FF7200?style=flat-square&logo=DevExpress&logoColor=white)](https://supportcenter.devexpress.com/ticket/details/T375271)
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
+[![](https://img.shields.io/badge/💬_Leave_Feedback-feecdd?style=flat-square)](#does-this-example-address-your-development-requirementsobjectives)
 <!-- default badges end -->
 
 # WinForms Data Grid - Display a custom button within the Filter Panel 
@@ -31,3 +32,10 @@ This example demonstrates how to display custom buttons within the Grid control
 * [WinForms Data Grid - How to create a GridView descendant and use it at design time](https://supportcenter.devexpress.com/ticket/details/e900/winforms-data-grid-how-to-create-a-gridview-descendant-and-use-it-at-design-time)
 * [How to add a custom button to a column header in a grid](https://supportcenter.devexpress.com/ticket/details/e2793/winforms-data-grid-how-to-display-a-custom-button-within-a-column-header)
 * [How to add a check box to a column header](https://supportcenter.devexpress.com/ticket/details/t325446/winforms-data-grid-how-to-display-a-check-box-within-a-column-header)
+<!-- feedback -->
+## Does this example address your development requirements/objectives?
+
+[<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=gridview-how-to-add-a-custom-button-to-the-filterpanel-t375271&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=gridview-how-to-add-a-custom-button-to-the-filterpanel-t375271&~~~was_helpful=no)
+
+(you will be redirected to DevExpress.com to submit your response)
+<!-- feedback end -->
